@@ -1,1 +1,1 @@
-Simple, 'hacky' implementation of a 2D game, to test some concepts.git push --set-upstream origin master
+Simple implementation of a 2D particle system
